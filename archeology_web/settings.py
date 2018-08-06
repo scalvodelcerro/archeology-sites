@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'archeology_sites'
+    'archeology_sites',
+    'user_accounts'
 ]
 
 MIDDLEWARE = [
